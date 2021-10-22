@@ -1,0 +1,17 @@
+F:\week_7\005GDI+\005GDI+\bin\Debug\005GDI+.exe
+F:\week_7\005GDI+\005GDI+\bin\Debug\005GDI+.pdb
+F:\week_7\005GDI+\005GDI+\obj\x86\Debug\_005GDI_.Form1.resources
+F:\week_7\005GDI+\005GDI+\obj\x86\Debug\_005GDI_.Properties.Resources.resources
+F:\week_7\005GDI+\005GDI+\obj\x86\Debug\005GDI+.exe
+F:\week_7\005GDI+\005GDI+\obj\x86\Debug\005GDI+.pdb
+F:\week_7\005GDI+\005GDI+\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\week_7\005GDI+\005GDI+\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\week_7\005GDI+\005GDI+\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\上课资料\windows\week_7\005GDI+\005GDI+\obj\x86\Debug\005GDI+.exe
+F:\上课资料\windows\week_7\005GDI+\005GDI+\obj\x86\Debug\005GDI+.pdb
+F:\上课资料\windows\week_7\005GDI+\005GDI+\bin\Debug\005GDI+.exe
+F:\上课资料\windows\week_7\005GDI+\005GDI+\bin\Debug\005GDI+.pdb
+F:\上课资料\windows\week_7\005GDI+\005GDI+\obj\x86\Debug\_005GDI_.Form1.resources
+F:\上课资料\windows\week_7\005GDI+\005GDI+\obj\x86\Debug\_005GDI_.Properties.Resources.resources
+F:\上课资料\windows\week_7\005GDI+\005GDI+\obj\x86\Debug\005GDI+.csproj.GenerateResource.Cache
+F:\上课资料\windows\week_7\005GDI+\005GDI+\obj\x86\Debug\005GDI+.csprojResolveAssemblyReference.cache
